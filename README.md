@@ -160,9 +160,9 @@ Rechazar H₀ en los tres → evidencia fuerte de reversión a la media.
 - Exportación Excel multi-hoja con resumen de regresión
 
 ---
-
 ## Author
+**Galo Szlomowicz** · [github.com/GaloSzlomowicz](https://github.com/GaloSzlomowicz)
 
-**unabomber1618** · [github.com/unabomber1618](https://github.com/unabomber1618)
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 > *Quantitative mean-reversion system for soy futures calendar spreads — cointegration-tested, z-score signaled, Matba Rofex.*
